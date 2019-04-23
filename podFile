@@ -1,0 +1,9 @@
+target 'TableViewTest' do 
+  
+  pod 'Texture'
+  pod 'AFNetworking'
+  pod 'YYKit'
+  pod 'FrameLayout'
+  pod 'UITableView+FDTemplateLayoutCell'
+  pod 'Masonry'
+end 
